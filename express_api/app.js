@@ -21,11 +21,11 @@ app.get('/', async (req, res) => {
     res.send("Express server is running");
 });
 
-/*
+
 app.get('/quote', async (req, res) => {
     res.send(getRandomQuote());
 })
-*/
+
 
 
 
